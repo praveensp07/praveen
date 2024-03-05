@@ -1,0 +1,23 @@
+.img1{
+    width: 100%;
+    height:100%;
+}
+nav{
+    margin:0;
+    padding:0;
+}
+ul,li{
+    display: inline;
+}
+li:hover{
+    color:gray;
+}
+body{
+    background-size: cover;
+    background-image: url(https://wallpapercave.com/wp/wp2639574.jpg);
+    color: aliceblue;
+}
+h1{
+    margin-bottom: 40px;
+    padding-left: 20px;
+}
